@@ -1,4 +1,4 @@
-# **Loan Approval Prediction Model ((Python, Excel, Random Forest, SVM))**
+# **Loan Approval Prediction Model (Python, Excel, Random Forest, SVM)**
 
 In this project, I developed a **Loan Approval Prediction** system that uses machine learning techniques to determine whether a loan application should be approved or not, based on applicants’ financial and personal data. This project applies robust data preprocessing, outlier handling, and feature engineering techniques, followed by model training and evaluation using **Support Vector Classifier (SVC)** for accurate loan approval classification.
 
