@@ -1,7 +1,3 @@
-Here’s a **README section** for your project, written in the same professional and structured format as your “Customer Churn Modelling and Prediction Using Deep Learning and MLOps” example 👇
-
----
-
 # **Loan Approval Prediction Using Machine Learning**
 
 In this project, I developed a **Loan Approval Prediction** system that uses machine learning techniques to determine whether a loan application should be approved or not, based on applicants’ financial and personal data. This project applies robust data preprocessing, outlier handling, and feature engineering techniques, followed by model training and evaluation using **Support Vector Classifier (SVC)** for accurate loan approval classification.
@@ -125,6 +121,6 @@ The dataset used for this project is `loan_prediction.csv`, containing informati
 
   * Preprocessed features.
   * Scaled numerical data.
-  * Predicted loan status appended as a new column **`Loan_Status_Predicted**`.
+  * Predicted loan status appended as a new column `Loan_Status_Predicted`.
 
 
